@@ -1,0 +1,49 @@
+.row{border:2px solid black;width:100%;margin:auto;height:1152px;margin-top:30px}
+.header0{border:1px solid #90ee90;width:99.9%;height:100px;background-color:#90ee90}
+.header00{	width:250px;height:50px;color:#ffffff;font-size:30px;text-align:center;margin:auto;margin-top:30px}
+.header1{border:1px solid #ffffff;width:99.9%;height:450px;background-color:#ffffff;border-bottom-color:#90ee90;border-bottom:3px solid #90ee90}
+.header11{width:99.9%;height:150px;text-align:center;font-size:55px;margin-top:140px;line-height:80px}
+.header2{border:1px solid #ffffff;width:99.9%;height:320px;background-color:#ffffff;border-bottom-color:black;border-bottom:3px solid black}
+.header22{width:99.9%;height:50px;margin-top:30px;font-size:25px;padding-left:50px}
+.header222{margin-top:20px;width:85%;line-height:35px;height:70px;font-size:18px;margin-left:50px}
+.header3{margin-top:20px;width:100px;border:2px solid #90ee90;padding:14px 34px;margin-left:50px;margin-top:30px;cursor:hand}
+.header3:hover{background-color:#90ee90;color:white;transition:1s}
+.header4{border:1px solid #90ee90;width:99.9%;height:180px;background-color:#90ee90}
+.header44{width:30%;height:50px;;text-align:center;font-size:35px;color:white;margin:auto;margin-top:20px}
+.header444{width:30%;height:60px;margin:auto;margin-top:40px}
+.box1{width:40px;height:50px;float:left;margin-left:90px;margin-top:5px;font-size:30px;color:white}
+.box2{width:40px;height:50px;float:left;margin-left:35px;margin-top:5px;font-size:30px;color:white}
+.box3{width:40px;height:50px;float:left;margin-left:35px;margin-top:5px;font-size:30px;color:white}
+.header5{width:43%;height:89.9px;background-color:#ffffff;margin:auto}
+.header55{width:94px;margin-left:120px;height:50px;color:#1e2426;font-size:16px;text-align:center;float:left;margin-top:30px}
+.header555{width:160px;height:50px;color:blue;font-size:17px;text-align:center;float:left;margin-top:30px}
+
+
+
+
+
+@media screen and (max-width:600px)
+{
+	
+	
+.row{border:2px solid black;width:100%;margin:auto;height:1205px;margin-top:30px}
+.header0{border:1px solid #90ee90;width:99.8%;height:100px;background-color:#90ee90}
+.header00{width:190px;height:50px;color:#ffffff;font-size:25px;text-align:center;margin:auto;margin-top:30px}
+.header1{border:1px solid #ffffff;width:99.9%;height:450px;background-color:#ffffff;border-bottom-color:#90ee90;border-bottom:3px solid #90ee90}
+.header11{width:99.9%;height:250px;text-align:center;font-size:50px;margin-top:90px;line-height:80px}
+.header2{border:1px solid #ffffff;width:99.9%;height:370px;background-color:#ffffff;border-bottom-color:black;border-bottom:3px solid black}
+.header22{width:80%;height:70px;margin-top:30px;font-size:23px;}
+.header222{margin-top:20px;width:80%;line-height:35px;height:100px;font-size:16px;margin-left:50px}
+.header3{margin-top:20px;width:100px;border:2px solid #90ee90;padding:14px 34px;margin-left:50px;margin-top:30px;cursor:hand}
+.header3:hover{background-color:#90ee90;color:white;transition:1s}
+.header4{border:1px solid #90ee90;width:99.9%;height:180px;background-color:#90ee90}
+.header44{width:70%;height:50px;;text-align:center;font-size:35px;color:white;margin:auto;margin-top:20px}
+.header444{width:80%;height:60px;margin:auto;margin-top:20px}
+.box1{width:40px;height:50px;margin-left:106spx;margin-top:5px;font-size:19px;color:white}
+.box2{width:40px;height:50px;margin-left:35px;margin-top:5px;font-size:19px;color:white}
+.header5{ width:65%;height:50px;background-color:#ffffff}
+.header55{width:90px;height:50px;color:#1e2426;font-size:18px;margin-left:8px;margin-top:30px}
+.header555{width:190px;height:50px;color:blue;font-size:18px;margin-left:1px;margin-top:30px}
+
+
+}
